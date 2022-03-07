@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "bootstrap-datepicker@1.9.0",
+      "destination": "wwwroot/bootstrap-datepicker/"
+    },
+    {
+      "library": "imask@6.4.2",
+      "destination": "wwwroot/imask/"
+    },
+    {
+      "library": "jquery.maskedinput@1.4.1",
+      "destination": "wwwroot/lib/jquery.maskedinput/"
+    }
+  ]
+}
